@@ -1,6 +1,8 @@
 # Six Men's Morris
 
-The requirement of this project was to implement a modified version of "Nine Men's Morris" called "Six Men's Morris".  The main difference is the board is smaller than the original.
+The main requirement of this project was to implement a modified version of "Nine Men's Morris" called "Six Men's Morris", while creating an associated software specifications.  The main difference is the board is smaller than the original.  The language of choice of this project is Java because the original project specifications required us to make the program portable across Linux/Mac/Windows.
+
+![Alt text](preview.png?raw=true "Preview")
 
 Rules:
 ---------------------------------------
